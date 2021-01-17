@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1610811226 source:/home/mrjoe/MrJoe/C++Projects/Assignemt2/server/server.cpp
+	<utility>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<errno.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<sys/wait.h>
+	<signal.h>
+	<netdb.h>
+	<string>
+	<thread>
+	<ctime>
+	<bits/stdc++.h>
+	<sys/stat.h>
+
